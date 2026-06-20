@@ -820,3 +820,7 @@ If this library saved you time, consider buying me a coffee:
 ## License
 
 MIT © [NestJSForge](https://github.com/nestjsforge)
+
+---
+
+Forged with ⚒️❤️‍🔥 for the NestJS community 🚀
