@@ -1,6 +1,6 @@
 {
   "name": "@nestjsforge/pdfme",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "NestJS integration for PDFMe — generate, validate and manage PDF templates as injectable services",
   "license": "MIT",
   "author": {
